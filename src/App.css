@@ -1,0 +1,35 @@
+.body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  height: 5%;
+  justify-content: center;
+}
+
+.dec{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inc{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.display{
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+}
